@@ -11,6 +11,6 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "javascript-algorand-nft-sdk": "^0.0.8"
+    "javascript-algorand-nft-sdk": "^0.0.9"
   }
 }
