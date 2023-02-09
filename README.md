@@ -1,11 +1,11 @@
 # JS-Algo-SDK-Test
 
-Testing ground for the JavaScript Algorand SDK package
+Testing ground for the JavaScript Algorand NFT SDK package
 
 ## Setup
 
 ```sh
->> npm install javascript-algorand-sdk@latest
+>> npm install javascript-algorand-nft-sdk@latest
 ```
 
 ## Run
