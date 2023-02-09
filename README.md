@@ -5,7 +5,7 @@ Testing ground for the JavaScript Algorand SDK package
 ## Setup
 
 ```sh
->> npm install
+>> npm install javascript-algorand-sdk@latest
 ```
 
 ## Run
